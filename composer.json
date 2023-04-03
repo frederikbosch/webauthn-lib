@@ -25,7 +25,7 @@
         "ext-openssl": "*",
         "ext-mbstring": "*",
         "beberlei/assert": "^3.2",
-        "fgrosse/phpasn1": "^2.1",
+        "genkgo/php-asn1": "^2.1",
         "paragonie/constant_time_encoding": "^2.4",
         "psr/http-client": "^1.0",
         "psr/http-factory": "^1.0",
